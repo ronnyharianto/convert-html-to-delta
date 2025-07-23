@@ -13,15 +13,16 @@ This project is used to **convert HTML content (typically from WYSIWYG editors)*
 ---
 
 ## 📁 Project Structure
-
+```pgsql
 project-root/
 ├── src/
-│ └── convert-html-to-delta.ts # Main migration script
-├── .env # Environment variables
-├── .env.example # Environment variables example
-├── package.json # Node.js project config
-├── tsconfig.json # TypeScript config
-└── README.md # Project documentation
+│ └── convert-html-to-delta.ts     # Main migration script
+├── .env                           # Environment variables
+├── .env.example                   # Environment variables example
+├── package.json                   # Node.js project config
+├── tsconfig.json                  # TypeScript config
+└── README.md                      # Project documentation
+```
 
 ---
 
