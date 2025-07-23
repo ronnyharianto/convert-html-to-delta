@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+.DS_Store
+*.log
+coverage/
+.idea/
+.vscode/
+dist/
+build/
+tmp/
+*.tgz
+*.zip
+*.rar
+*.7z
+.eslintcache
