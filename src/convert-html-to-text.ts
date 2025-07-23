@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+dotenv.config();
+
 import { Client } from 'pg';
 import { htmlToText } from 'html-to-text';
 
