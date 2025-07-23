@@ -31,8 +31,8 @@ project-root/
 1. **Clone this repository**
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/ronnyharianto/convert-html-to-delta.git
+cd convert-html-to-delta
 ```
 
 2. Create a `.env` file in the root directory with your environment.
