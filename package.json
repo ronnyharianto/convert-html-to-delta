@@ -11,10 +11,12 @@
   "description": "",
   "dependencies": {
     "dotenv": "^17.2.0",
+    "html-to-text": "^9.0.5",
     "pg": "^8.16.3",
     "quill-delta-from-html": "^1.0.6"
   },
   "devDependencies": {
+    "@types/html-to-text": "^9.0.4",
     "@types/node": "^24.1.0",
     "@types/pg": "^8.15.4",
     "ts-node": "^10.9.2",
